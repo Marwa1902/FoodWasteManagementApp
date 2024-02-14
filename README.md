@@ -43,3 +43,11 @@ There are different Android and iOS versions of the app. Alternatively, the same
 The application of AI in the implementation of some of features. For example, the user can scan a food item using the camera and the app can automatically assign the food items to its category by using video or image recognition technology.
 
 The app attempts to encourage the users to drop food at local food banks. For example, users can be rewarded with points when they drop foot items at local food banks. In this case, volunteers at the participating food banks can access the system via a web dashboard to credit users with points. Users can earn badges when they collect a certain amount of points and share these badges on social media.
+
+It is a group of 6 with members:
+Esraa (U18103913), 
+Hiba (U20200797), 
+Iman (U19200046), 
+Lana (U20103480), 
+Marwa (U20103078),
+Shamsa (U19101371).
